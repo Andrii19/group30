@@ -1,0 +1,24 @@
+Introduction
+It is essential that all authors are correctly identified and their work attributed to them. The dates of data collection/recording and analysis/reporting are also important, particularly if there is a time-gap between those stages or between report writing and dissemination.
+
+Methodology
+Methods of data collection and analysis must be described and, where possible, related to current standards, guidance or reference resources. A list of current standards is included in this Toolkit. If existing standards are not followed, the application of new or unconventional methods should be explained.
+
+Quantification
+An overall quantification of the category assemblage must be included in a way that facilitates comparative research. The lack of comparable measures of quantification in finds reports seriously hinders the ability of users to carry out further research and impacts the usefulness of reports in all types of research projects.
+
+Quantification measures should be consistent and follow established standards where applicable. The appropriate method of quantification will vary depending on the material/category but should include basic numerical quantification (object count/fragment count) and/or weight as a minimum. Other methods of quantification vary between material/category but include Estimated Vessel Equivalent (EVE), Minimum/Maximum Vessel Count, Minimum Number of Individuals (MNI), Minimum Number of Elements (MNE) and Number of Identified Specimens (NISP).
+
+Characterisation
+Characterisation of assemblages is a fundamental component of any specialist material report. Methods will vary according to category but where possible established terms should be used, based on recognised nomenclature, typologies, thesauri or object lists. The applicability of the checklist criteria will depend on the material category or the type of report, but they should all be considered and included where relevant.
+
+Many of these criteria will form record fields used for recording assemblages, resulting in data that may be tabulated as well as reported in text descriptions. Some specialised elements, such as the results of scientific analysis, require integration into category reports and this must be accounted for in specialist’s work programmes.
+
+Interpretation
+The level of interpretation in specialist reports will be related to the size and significance of the assemblage, as well as the complexity and extent of the archaeological project. Type 3 reports should include fully developed interpretative sections that consider the aspects listed in the checklist criteria.
+
+For finds appraisal and assessment reports interpretation may be more limited, particularly if the contextual data are not fully developed (eg phasing has not been finalised). Whatever the type of report, it is essential that data can easily be related to context/feature and period/phase (with cross-referencing of category assemblages to stratigraphic location in both text and plans).
+
+Presentation
+It is useful for data to be summarised and tabulated in line with the structural evidence (eg period/phase) so that readers can quickly gain a temporal overview of a category dataset. Other variables may also be relevant, such as context type, feature type, site area. The presentation of data in tables and graphs is encouraged as an effective method of presenting data.
+
