@@ -1,0 +1,26 @@
+Title
+The first and most important attribute in any bug tracking system is a brief description of the problem, which allows you to quickly navigate the issue and describe it with simple What? Where? When?",
+
+Severity
+Blocker Critical Major Minor Trivial
+
+Priority 
+High Medium Minor
+
+Description
+This part elaborates on the Title field since quite often the table of contents becomes too cumbersome. This is where the description field comes in handy, so you could describe the problem without any restrictions. It also specifies additional conditions, such as how often the error occurs, if the error is accidental, and the circumstances that could cause it.",
+ 
+ Environment 
+ An application could have inconsistent behavior depending on the situation, so here you need to describe in detail all the conditions in which a bug is reproduced",
+ 
+ Steps to reproduce 
+ This item should contain the minimum steps that describe the entire path of reproducing the bug. Describe one step per line. If the description requires more than 8 bullet points, you can mention them as Preconditions",
+  
+  Expected result
+  Be sure to describe the expected result according to the technical task, design, test cases outcome, or the opinion of the tester. This way, the developer will know exactly what to focus on and won't waste their time searching for the necessary information.",
+  
+  Actual result 
+  This field describes the actual effect of the bug. Sometimes testers write general statements such as The Undo Button does not work properly. This is not very informative, is it? Does the button get pushed? Does the action not cancel? Or does another action not related to cancellation happen",
+  
+  Attachments
+  It is standard practice to attach files to bug reports because it's easier to perceive information when it is displayed visually.
